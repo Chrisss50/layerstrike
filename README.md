@@ -33,3 +33,4 @@ When the bomb is planted, all players are visible for all layers after 15 second
 Facebook: https://www.facebook.com/layerstrike  
 Steam Group: http://steamcommunity.com/groups/layerstrike  
 Developer: http://steamcommunity.com/id/chrisss50
+AlliedModders: https://forums.alliedmods.net/showthread.php?p=2497889#post2497889
