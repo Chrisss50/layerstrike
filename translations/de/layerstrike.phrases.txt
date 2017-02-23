@@ -1,0 +1,52 @@
+"Phrases"
+{
+    "Everyone_Visible"
+    {
+        "de"        "Alle sind nun sichtbar!"
+    }
+
+    "Restarting_Game"
+    {
+        "de"        "Spiel wird neugestartet..."
+    }
+
+    "LS_enabled"
+    {
+        "de"        "Layer Strike aktiviert!"
+    }
+
+    "LS_disabled"
+    {
+        "de"        "Layer Strike deaktiviert!"
+    }
+
+    "Initializing"
+    {
+        "de"        "Initialisierung..."
+    }
+
+    "LS_loaded"
+    {
+        "de"        "Layer Strike geladen!"
+    }
+
+    "LS_stop"
+    {
+        "de"        "STOP"
+    }
+
+    "LS_start"
+    {
+        "de"        "START"
+    }
+
+    "LS_on"
+    {
+        "de"        "AN"
+    }
+
+    "LS_off"
+    {
+        "de"        "AUS"
+    }
+}
