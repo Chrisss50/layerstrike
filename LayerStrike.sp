@@ -64,7 +64,7 @@ public Plugin myinfo =
 	name = "Layer Strike",
 	author = "Christopher 'Chriz' Juerges",
 	description = "Only enemies on the same layer are visible, but always hittable!",
-	version = "0.1",
+	version = "1.0",
 	url = "steamcommunity.com/groups/layerstrike"
 };
 
