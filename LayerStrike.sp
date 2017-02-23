@@ -93,7 +93,7 @@ public void OnPluginStart()
 		ToggleLayerStrike(false);
 	}
 
-	RegAdminCmd("ls", Command_LayerStrike, ADMFLAG_SLAY);
+	RegAdminCmd("layerstrike", Command_LayerStrike, ADMFLAG_SLAY);
 
 	HookEvent("bomb_planted", Event_BombPlanted, EventHookMode_PostNoCopy);
 	HookEvent("round_start", Event_RoundStart);
