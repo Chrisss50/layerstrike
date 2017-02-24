@@ -3,50 +3,60 @@
     "Everyone_Visible"
     {
         "en"        "Everyone is visible now!"
+        "es"        "¡Todos son visibles ahora!"
     }
 
     "Restarting_Game"
     {
         "en"        "Restarting the Game..."
+        "es"        "Reiniciando la partida..."
     }
 
     "LS_enabled"
     {
         "en"        "Layer Strike enabled!"
+        "es"        "¡Layer Strike habilitado!"
     }
 
     "LS_disabled"
     {
         "en"        "Layer Strike disabled!"
+        "es"        "¡Layer Strike inhabilitado!"
     }
 
     "Initializing"
     {
         "en"        "Initializing..."
+        "es"        "Inicializando..."
     }
 
     "LS_loaded"
     {
         "en"        "Layer Strike loaded!"
+        "es"        "¡Layer Strike cargado!"
     }
 
     "LS_stop"
     {
         "en"        "STOP"
+        "es"        "STOP"
     }
 
     "LS_start"
     {
         "en"        "START"
+        "es"        "INICIAR"
     }
 
     "LS_on"
     {
         "en"        "ON"
+        "es"        "ON"
     }
 
     "LS_off"
     {
         "en"        "OFF"
+        "es"        "OFF"
     }
 }
