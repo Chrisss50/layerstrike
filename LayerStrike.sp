@@ -198,7 +198,7 @@ public Action Timer_OneSecond(Handle timer) {
 		EmitSoundToAllAny(SOUND_VISIBLE);
 	}
 	if (g_BombPlanted && ((g_TimeCounter - g_TimeBombPLanted) == layerstrike_time_after_plant_visible.IntValue)) {
-		PrintCenterTextToAll("Everyone_Visible");
+		PrintCenterTextAll("Everyone_Visible");
 		g_BombMakePlayerVisible = true;
 		g_DoBingSound = false;
 	}
@@ -326,15 +326,6 @@ public void ToggleLayerStrike(bool enable) {
 	}
 }
 
-
-public void PrintCenterTextToAll(char[] text) {
-	for (int i=1; i<=MaxClients; i++) {
-		if (IsValidClient(i))
-		{
-			PrintCenterText(i, "%t", text);
-		}
-	}
-}
 
 // Took this method from Kinsi55's GhostStrike mod
 // https://github.com/kinsi55/CSGO-GhostStrike/blob/master/GhostStrike.sp
