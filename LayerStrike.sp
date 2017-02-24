@@ -198,7 +198,7 @@ public Action Timer_OneSecond(Handle timer) {
 		EmitSoundToAllAny(SOUND_VISIBLE);
 	}
 	if (g_BombPlanted && ((g_TimeCounter - g_TimeBombPLanted) == layerstrike_time_after_plant_visible.IntValue)) {
-		PrintCenterTextAll("Everyone_Visible");
+		PrintCenterTextAll("%t", "Everyone_Visible");
 		g_BombMakePlayerVisible = true;
 		g_DoBingSound = false;
 	}
