@@ -34,3 +34,7 @@ Facebook: https://www.facebook.com/layerstrike
 Steam Group: http://steamcommunity.com/groups/layerstrike  
 Developer: http://steamcommunity.com/id/chrisss50  
 AlliedModders: https://forums.alliedmods.net/showthread.php?p=2497889#post2497889
+
+### Credits
+Thanks to Cripix from AlliedModders for translating everythin into French
+https://forums.alliedmods.net/member.php?u=273837
