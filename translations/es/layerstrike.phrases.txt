@@ -1,0 +1,54 @@
+"Phrases"
+{
+"Everyone_Visible"
+     {
++        "es"        "¡Todos son visibles ahora!"
+     }
+ 
+     "Restarting_Game"
+     {
++        "es"        "Reiniciando la partida..."
+     }
+ 
+     "LS_enabled"
+     {
++        "es"        "¡Layer Strike habilitado!"
+     }
+ 
+     "LS_disabled"
+     {
++        "es"        "¡Layer Strike inhabilitado!"
+     }
+ 
+     "Initializing"
+     {
++        "es"        "Inicializando..."
+     }
+ 
+     "LS_loaded"
+     {
++        "es"        "¡Layer Strike cargado!"
+     }
+ 
+     "LS_stop"
+     {
++        "es"        "STOP"
+     }
+ 
+     "LS_start"
+     {
++        "es"        "INICIAR"
+     }
+ 
+ 
+     "LS_on"
+     {
++        "es"        "ON"
+     }
+ 
+ 
+     "LS_off"
+     {
++        "es"        "OFF"
+     }
++}
